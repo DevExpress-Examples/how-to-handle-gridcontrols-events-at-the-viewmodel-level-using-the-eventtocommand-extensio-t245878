@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EventToCommandExampleTestPage.aspx](./CS/EventToCommandExample.Web/EventToCommandExampleTestPage.aspx) (VB: [EventToCommandExampleTestPage.aspx](./VB/EventToCommandExample.Web/EventToCommandExampleTestPage.aspx))
+* [FocusedColumnChangedEventArgsToFieldNameConverter.cs](./CS/EventToCommandExample/Converters/FocusedColumnChangedEventArgsToFieldNameConverter.cs) (VB: [FocusedColumnChangedEventArgsToFieldNameConverter.vb](./VB/EventToCommandExample/Converters/FocusedColumnChangedEventArgsToFieldNameConverter.vb))
+* [MouseButtonEventArgsToGridRowConverter.cs](./CS/EventToCommandExample/Converters/MouseButtonEventArgsToGridRowConverter.cs) (VB: [MouseButtonEventArgsToGridRowConverter.vb](./VB/EventToCommandExample/Converters/MouseButtonEventArgsToGridRowConverter.vb))
+* [MainPage.xaml](./CS/EventToCommandExample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/EventToCommandExample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/EventToCommandExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/EventToCommandExample/MainPage.xaml.vb))
+* [SampleData.cs](./CS/EventToCommandExample/Modules/SampleData.cs) (VB: [SampleData.vb](./VB/EventToCommandExample/Modules/SampleData.vb))
+* [MainViewModel.cs](./CS/EventToCommandExample/ViewModels/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/EventToCommandExample/ViewModels/MainViewModel.vb))
+<!-- default file list end -->
 # How to handle GridControl's events at the ViewModel level using the EventToCommand extension from MVVM Framework
 
 
